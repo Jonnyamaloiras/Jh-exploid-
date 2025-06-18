@@ -48,7 +48,7 @@ javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/ref
 
 <div align="center">
   <img src="https://i.imgur.com/CHUfGIq.png" width="150px" alt="Snow Profile"/>
-  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Central Scripts!</h3>
+  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Jh</h3>
 </div>
 
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffffff&section=footer"/></a>
